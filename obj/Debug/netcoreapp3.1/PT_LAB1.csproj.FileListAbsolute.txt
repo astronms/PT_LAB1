@@ -1,0 +1,13 @@
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.csprojAssemblyReference.cache
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.AssemblyInfoInputs.cache
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.AssemblyInfo.cs
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.exe
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.deps.json
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.runtimeconfig.json
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.runtimeconfig.dev.json
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.dll
+C:\Users\astro\source\repos\PT_LAB1\bin\Debug\netcoreapp3.1\PT_LAB1.pdb
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.dll
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.pdb
+C:\Users\astro\source\repos\PT_LAB1\obj\Debug\netcoreapp3.1\PT_LAB1.genruntimeconfig.cache
