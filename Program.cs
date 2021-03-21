@@ -29,9 +29,6 @@ namespace PT_LAB1
                 WriteItem(item);
                 PrintChild(resultToPrint, item.Key);
             }
-
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine(di.LastCreationTime().ToString());
         }
 
 
@@ -49,6 +46,7 @@ namespace PT_LAB1
                     Console.ForegroundColor = ConsoleColor.White;
                     WriteItem(item);
                 }
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         private static Dictionary<Item, int> sort(string sortMethod, SortedDictionary<Item, int> itemSortedDictionary)
